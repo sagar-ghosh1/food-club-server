@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "banner": "https://rb.gy/qggvl",
+        "recipe_name": "Spicy Thai Basil Chicken",
+        "ingredients": [
+            "chicken breast, ",
+            "Thai basil, ",
+            "garlic, ",
+            "soy sauce, ",
+            "red pepper flakes"
+        ],
+        "method": "Heat oil in a skillet and cook chicken until browned. Add minced garlic and red pepper flakes and cook until fragrant. Add soy sauce and Thai basil and cook until sauce thickens. Add minced garlic and sliced chili peppers to the pan and stir-fry for about 30 seconds until fragrant.",
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "banner": "https://rb.gy/b8n95",
+        "recipe_name": "Blueberry Pancakes",
+        "ingredients": [
+            "flour, ",
+            "baking powder, ",
+            "milk, ",
+            "eggs, ",
+            "blueberries"
+        ],
+        "method": "Blueberry pancakes are a classic breakfast treat that are easy to make and always delicious. In another bowl, whisk together milk and eggs. Pour wet ingredients into dry ingredients and mix until combined. Fold in blueberries. Cook pancakes on griddle until golden brown.",
+        "rating": 4.1
+    },
+    {
+        "id": 3,
+        "banner": "https://rb.gy/j5ihm",
+        "recipe_name": "Creamy Mushroom Risotto",
+        "ingredients": [
+            "arborio rice, ",
+            "mushrooms, ",
+            "chicken broth, ",
+            "parmesan cheese, ",
+            "butter"
+        ],
+        "method": "Saute sliced mushrooms in a large pot until browned. Add arborio rice and stir to coat with oil. Add chicken broth one cup at a time, stirring until absorbed before adding more. Cook until rice is tender. Stir in parmesan cheese and butter until melted and creamy.",
+        "rating": 4.5
+    }
+
+]
