@@ -20,7 +20,7 @@
             "1/2 cup butter, ",
             "Salt and pepper"
         ],
-        "likes": 1000
+        "likes": 2000
     },
     {
         "id": 2,
@@ -44,7 +44,7 @@
             "1/2 cup heavy cream, ",
             "Salt and pepper"
         ],
-        "likes": 1500
+        "likes": 500
     },
     {
         "id": 3,
@@ -69,7 +69,7 @@
             "1 sheet puff pastry, ",
             "1 egg yolk"
         ],
-        "likes": 2000
+        "likes": 1800
     },
     {
         "id": 4,
@@ -98,7 +98,7 @@
             "1 tablespoon butter, ",
             "Salt and pepper"
         ],
-        "likes": 500
+        "likes": 700
     },
     {
         "id": 5,
@@ -121,7 +121,7 @@
             "2 tablespoons sugar, ",
             "1/2 teaspoon vanilla extract"
         ],
-        "likes": 1800
+        "likes": 1400
     },
     {
         "id": 6,
@@ -147,6 +147,6 @@
             "1/2 cup sour cream, ",
             "1 tablespoon flour"
         ],
-        "likes": 250
+        "likes": 400
     }
 ]
