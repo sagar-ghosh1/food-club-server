@@ -10,7 +10,7 @@
             "soy sauce, ",
             "red pepper flakes"
         ],
-        "method": "Heat oil in a skillet and cook chicken until browned. Add minced garlic and red pepper flakes and cook until fragrant. Add soy sauce and Thai basil and cook until sauce thickens. Add minced garlic and sliced chili peppers to the pan and stir-fry for about 30 seconds until fragrant.",
+        "method": "Chicken Parmesan is a classic Italian-American dish that combines tender chicken cutlets with a rich tomato sauce and melted cheese. It's a mouthwatering combination of flavors and textures that will satisfy your cravings for a hearty and comforting meal.",
         "rating": 4.5
     },
     {
@@ -24,8 +24,8 @@
             "eggs, ",
             "blueberries"
         ],
-        "method": "Blueberry pancakes are a classic breakfast treat that are easy to make and always delicious. In another bowl, whisk together milk and eggs. Pour wet ingredients into dry ingredients and mix until combined. Fold in blueberries. Cook pancakes on griddle until golden brown.",
-        "rating": 4.5
+        "method": "To prepare Chicken Parmesan, start by pounding boneless, skinless chicken breasts until they are about 1/2 inch thick. This helps tenderize the meat and ensures even cooking. Then, season the chicken with salt, pepper, and your favorite herbs and spices.",
+        "rating": 4.1
     },
     {
         "id": 3,
@@ -38,7 +38,7 @@
             "parmesan cheese, ",
             "butter"
         ],
-        "method": "Saute sliced mushrooms in a large pot until browned. Add arborio rice and stir to coat with oil. Add chicken broth one cup at a time, stirring until absorbed before adding more. Cook until rice is tender. Stir in parmesan cheese and butter until melted and creamy.",
+        "method": "Heat some olive oil in a skillet over medium heat and cook the chicken cutlets until they are golden brown on both sides and cooked through. This usually takes about 3-4 minutes per side, depending on the thickness of the chicken breasts. Once cooked, transfer the chicken to a baking dish.",
         "rating": 4.5
     }
 ]
